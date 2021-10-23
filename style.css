@@ -15,6 +15,7 @@ body
     align-items: center; 
     min-height: 100vh;
     background: #091921;
+    zoom: 100%;
 }
 
 .calculator
